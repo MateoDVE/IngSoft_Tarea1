@@ -7,8 +7,8 @@
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
-    "start": "parcel C:\\Users\\Mateo\\Documentos\\Mateo_Tareas\\Ing.Software\\base-js\\base-js\\index.html",
-    "build": "parcel build C:\\Users\\Mateo\\Documentos\\Mateo_Tareas\\Ing.Software\\base-js\\base-js\\index.html",
+    "start": "parcel serve index.html",
+    "build": "parcel build index.html",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {
